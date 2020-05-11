@@ -5,7 +5,5 @@ The tiles I used are based around the geographic area of Chicago, Illinois. When
 
 __Acknowlegments__
 - Chicago city park vector data was collected from DATA.gov produced by the US Government.
-<br/>
 - To build basemap used Mapbox.com and used the Monochrome template.
-<br/>
 - This lab was written by Professor Jakob Zhao of University of Washington.
